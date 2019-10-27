@@ -1,11 +1,9 @@
 {
-  "dependencies": {
-    "global": "^4.3.2",
-    "prettier": "^1.15.2"
-  },
-  "devDependencies": {
-    "eslint": "^5.9.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0"
-  }
+  "name": "client-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate repo suitable for client and api",
+  "main": "index.js",
+  "repository": "https://github.com/yannvr/client-boilerplate",
+  "author": "Yann VR <yannvr@gmail.com>",
+  "license": "MIT"
 }
